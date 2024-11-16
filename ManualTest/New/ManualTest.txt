@@ -1,0 +1,38 @@
+Proyecto de prueba manual
+-------------------------
+1) Introducción del proyecto
+2) Comprender y explorar la funcionalidad (FRS)
+3) Plan de prueba
+4) Escribir escenarios de prueba
+5) Redacción de casos de prueba y reseñas
+6) Configuración del entorno e implementación de compilación
+7) Ejecución de prueba
+8) Informes y seguimiento de errores
+9) Pruebas de cordura, repruebas y pruebas de regresión
+10) Aprobación de prueba
+
+
+Proyecto VS Producto
+
+Introduccion del proyecto
+-------------------------
+Producto
+eCommerce product/Application
+
+eCommerce
+-------------------------
+			Acceso
+			Buscar productos/artículos
+			Añadir luego al carrito
+			Hacer el pago
+			El producto será entregado
+			Devuelve el producto
+			etc...
+
+Frontend -- publico
+Backend -- Admnistrador
+
+URL: https://demo.opencart.com/
+Customer:opencart
+
+Mockup screens
